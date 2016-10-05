@@ -65,9 +65,11 @@ IEX:
 	* http://elixir-lang.org/docs/master/iex/IEx.html
 
 Introducing Ecto (It has a serial of chapters from Ecto to Phoenix) ***** MUST READ
+
  	* http://learningwithjb.com/posts/introducing-ecto 
 
 Brandon Richey: he has a lot of posts related to Phoenix, Elm, and Ember **** MUST READ
+
   	* https://medium.com/@diamondgfx
 
 Cory Schmitt
