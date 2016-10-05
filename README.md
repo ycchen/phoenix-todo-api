@@ -40,38 +40,44 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
 	* https://www.coshx.com/blog/2016/03/16/json-api-with-phoenix/
 
 Benchmark number (Benchmarking Phoenix vs Rails vs Sinatra vs Express vs Martini)
- * https://github.com/mroth/phoenix-showdown#comparative-benchmark-numbers
+
+ 	* https://github.com/mroth/phoenix-showdown#comparative-benchmark-numbers
 	
 Debugging techniques:
+
 	* http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/
 	* https://til.hashrocket.com/posts/3ab413d696-pry-in-elixir-phoenix
 	* https://medium.com/@diamondgfx/debugging-phoenix-with-iex-pry-5417256e1d11#.b7q7m3tbb
 
 ElixirSchool
+
 	* https://elixirschool.com/	
 
 Videos:	
+
 	* https://www.youtube.com/watch?v=EBbSM6DSZnA&feature=youtu.be
 
 Michał Muskała - Ecto - the Past, the Present, the Future (ElixirConfEU 2016)
+
 	* https://www.youtube.com/watch?v=msdYuidWYQA
 	
 IEX:
 	* http://elixir-lang.org/docs/master/iex/IEx.html
 
 Introducing Ecto (It has a serial of chapters from Ecto to Phoenix) ***** MUST READ
-  * http://learningwithjb.com/posts/introducing-ecto 
+ 	* http://learningwithjb.com/posts/introducing-ecto 
 
 Brandon Richey: he has a lot of posts related to Phoenix, Elm, and Ember **** MUST READ
-  * https://medium.com/@diamondgfx
+  	* https://medium.com/@diamondgfx
 
 Cory Schmitt
-  * http://www.schmitty.me/
+  	* http://www.schmitty.me/
 
 Ecto:
 	* https://hexdocs.pm/ecto/Ecto.html
 
 	* http://www.glydergun.com/diving-into-ecto/		
+	
 	* http://www.glydergun.com/diving-into-ecto-part-2/      ***** MUST READ on HOW TO USE .iex.exs to alias all model before you get into iex console
 
 	Let's start by getting our feet wet in IEx. It helps to alias Repo and all the models so we don't have to prefix everything with FishingSpot while in an IEx session. A really nice way to do this is to create a  .iex.exs file in the root of the project. Add the following:
@@ -95,10 +101,12 @@ Ecto:
 
 
 Mix:
- * http://elixir-lang.org/docs/stable/mix/Mix.html
+
+	 * http://elixir-lang.org/docs/stable/mix/Mix.html
 
 Mix tasks:
- * http://www.phoenixframework.org/v1.2.0/docs/mix-tasks
+
+ 	* http://www.phoenixframework.org/v1.2.0/docs/mix-tasks
 
 $ mix help | grep -i phoenix
 
@@ -112,10 +120,12 @@ mix phoenix.routes      # Prints all routes
 mix phoenix.server      # Starts applications and their servers
 
 Phoenix:
- * https://hexdocs.pm/phoenix/Phoenix.html
+
+ 	* https://hexdocs.pm/phoenix/Phoenix.html
 
 Plug:
- * https://hexdocs.pm/plug/readme.html
+
+ 	* https://hexdocs.pm/plug/readme.html
 
 
 
