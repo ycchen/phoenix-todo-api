@@ -36,6 +36,7 @@ defmodule TodosApi.Mixfile do
      {:postgrex, ">= 0.0.0"},
      {:gettext, "~> 0.11"},
      {:ja_serializer, ">= 0.11.0"},
+     {:corsica, "~> 0.5"},
      {:cowboy, "~> 1.0"}]
   end
 

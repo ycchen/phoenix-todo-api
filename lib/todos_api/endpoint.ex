@@ -36,5 +36,7 @@ defmodule TodosApi.Endpoint do
     key: "_todos_api_key",
     signing_salt: "KPdDXLt0"
 
+  plug Corsica, origins: ~r/^http:\/\/localhost:\d+$/, allow_headers: ["accept", "content-type"]
+  
   plug TodosApi.Router
 end
