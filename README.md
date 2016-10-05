@@ -17,3 +17,9 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: https://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+
+#### Instructions of how to create this project
+
+	* Instructions: https://gist.github.com/ycchen/52d9bef96d0fe327288c635afe67bee1
+	* Ember-CLI-Todo: https://github.com/ycchen/ember-todo-ui
+	* Phoenix: https://github.com/ycchen/phoenix-todo-api
